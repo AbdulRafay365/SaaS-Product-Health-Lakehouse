@@ -1,6 +1,8 @@
 # SaaS-Product-Health-Lakehouse
 A modern end-to-end data engineering project that unifies product usage, billing, and support data into a single analytics-ready lakehouse.
 
+<img width="499" height="364" alt="Screenshot 2025-11-23 at 8 42 53 PM" src="https://github.com/user-attachments/assets/738c45d2-78a0-4be2-bd78-ff054a9bed55" />
+
 # The Product
 IMS Traverse – Travel & Spend Analytics Platform
 IMS Traverse is an end-to-end data engineering and analytics project that simulates a Concur-style travel & expense platform for a consulting company. It ingests travel bookings, expenses, and project time-tracking data into a unified data model using Python/PySpark and SQL, then exposes curated tables and dashboards to answer questions about travel spend, policy compliance, and project profitability.
